@@ -46,12 +46,12 @@
 ```sh
 Admin/Staff Login Details
 
-         Username:RameshFernando
+         Username:Nithin S
          Password:abcd
 
 Normal User/Customer Login Details
 
-         Username:SamanSilva
+         Username:Balaji
          Password:1234
 
 ```
