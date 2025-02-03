@@ -1,7 +1,4 @@
-# LifeCare 🩺
-<!--This is a comment in a Markdown file-->
 
-<h3>🔰 Demo Video About this Web Application : https://youtu.be/icUjZI3ujTc </h3>
 
 ### Key Features for Customers 💁
 <p align="center">
@@ -112,27 +109,3 @@ Note: Location must be C:\xampp\htdocs folder.
 
 6.After clicking database click import and select the file "SQLQueries.sql"
 
-7.Open the following link on any browser 
-"http://localhost/LifeCare--Health-Insurance-Management-System/" or "http://localhost/LifeCare--Health-Insurance-Management-System-main/"
-
-```
-
-<h3>About Contributions 👨‍💻 </h3>
-
-Clone or download this repository to access the codebase and contribute to its continuous improvement. Feel free to raise issues, provide feedback, and submit pull requests, as we believe in the power of collaboration and open-source development🫂
-
-As the project leader, I'd like to thank each project member for their dedicated contributions to their respective tasks 🙏
-
-
-
-<h3 align="left">Ask Me Anything 🤝</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sadeesha-perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadeesha-perera" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sadeesha.b.perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sadeesha.b.perera" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sadeesha_b_perera_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadeesha_b_perera_" height="30" width="40" /></a>
-</p>
-<br>
-
-
-
-Thank you for visiting our repository, and we look forward to your active involvement in making the Health Insurance Management System even more exceptional!
