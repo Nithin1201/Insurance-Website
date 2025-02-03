@@ -64,7 +64,6 @@ Normal User/Customer Login Details
 - 📦 Backend: PHP
   
 - 🗄️ Database: phpMyAdmin Database (MySQL)
-- 
 
 <h3>⚙️ Set Up Guide</h3>
 
