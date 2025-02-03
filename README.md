@@ -64,32 +64,7 @@ Normal User/Customer Login Details
 - 📦 Backend: PHP
   
 - 🗄️ Database: phpMyAdmin Database (MySQL)
-
-<br>
-
-
-<p>This GitHub project showcases the comprehensive web application developed as part of our first-year, second-semester academic achievement at SLIIT.</p>
-
-<p>The Health Insurance Management System is an innovative and user-friendly web application designed to streamline health insurance operations for health care providers and policyholders. With a focus on simplicity, efficiency, and data security, this project aims to revolutionize the insurance industry's policy management and claims processing procedures</p>
-
-- 👨‍⚕️ Claims Processing: Simplified and automated claims processing, ensuring prompt and accurate settlements.
-  
-- 📝 Policy Creation and Renewal: Easily create and manage health insurance policies, facilitating quick policy renewals for existing customers.
-  
-- 💻 User-Friendly Interface: Intuitive UI/UX design for a seamless experience for both agents and policyholders.
-
-- 🗃️ Database Management: Efficient handling and real-time tracking of policy data and claims records.
-  
-- 🔒 Data Security: Robust security measures to safeguard sensitive customer information and maintain confidentiality.
-  
-- 💎 Admin Portal: A user-friendly admin dashboard for administrative purposes.
-
-
- We encourage students, developers and technology enthusiasts to explore and learn from our implementation.
-
-
-We are proud of the hard work and dedication poured into this project and hope that sharing it on GitHub will inspire others to innovate and contribute to the advancement of technology in the insurance industry.
-
+- 
 
 <h3>⚙️ Set Up Guide</h3>
 
