@@ -1,5 +1,3 @@
-
-
 ### Key Features for Customers 💁
 <p align="center">
 <img src="https://i.ibb.co/HFRtcyy/LifeCare.png" alt="LifeCare" border="0"></a><br />
